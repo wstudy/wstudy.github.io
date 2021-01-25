@@ -1,2 +1,0 @@
-# wstudy.github.io
-wstudy
