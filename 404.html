@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Page Not Found</title>
+  <script type="text/javascript">
+    // Redirect all requests to index.html
+    const redirect = function () {
+      const path = window.location.pathname;
+      const search = window.location.search;
+      const hash = window.location.hash;
+      window.location.replace("/index.html?" + "path=" + encodeURIComponent(path + search + hash));
+    };
+
+    redirect();
+  </script>
+</head>
+<body>
+<h1>Page Not Found</h1>
+<p>Redirecting...</p>
+</body>
+</html>
