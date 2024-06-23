@@ -1,0 +1,1 @@
+import{_ as e,I as t,S as s,R as c}from"./index.540e9066.js";const n={},o=c("div",{class:"text-h4"},"Index",-1),a=[o];function r(_,d){return t(),s("div",null,a)}var l=e(n,[["render",r]]);export{l as default};
