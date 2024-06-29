@@ -1,1 +1,0 @@
-import{b as e}from"./route-block.1e6a8648.js";import{_ as o,I as c,S as s,R as a}from"./index.fc19feaf.js";const t={},r=a("div",{class:"text-h4"},"About",-1),n=[r];function _(f,i){return c(),s("div",null,n)}typeof e=="function"&&e(t);var u=o(t,[["render",_]]);export{u as default};

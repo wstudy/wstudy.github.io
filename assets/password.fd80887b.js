@@ -1,0 +1,1 @@
+import{Q as e,a3 as a,a1 as s}from"./index.93dfc2b8.js";const t=s("div",{class:"text-h4"},"mypage/password",-1),o=s("div",null,null,-1),n=[t,o],l=Object.assign({name:"password"},{__name:"password",setup(c){return(_,r)=>(e(),a("div",null,n))}});export{l as default};
