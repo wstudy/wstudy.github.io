@@ -1,1 +1,0 @@
-import{Q as t,a3 as s,a1 as e}from"./index.93dfc2b8.js";const o=e("div",{class:"text-h4"},"mypage/profile",-1),a=e("div",null,null,-1),n=[o,a],i=Object.assign({name:"profile"},{__name:"profile",setup(c){return(l,_)=>(t(),s("div",null,n))}});export{i as default};

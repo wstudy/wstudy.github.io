@@ -1,0 +1,1 @@
+import{M as s,$ as a,_ as e}from"./index.6be11461.js";const t=e("div",{class:"text-h4"},"dashboard",-1),o=e("div",null,null,-1),n=[t,o],l=Object.assign({name:"dashboard"},{__name:"dashboard",setup(_){return(c,d)=>(s(),a("div",null,n))}});export{l as default};

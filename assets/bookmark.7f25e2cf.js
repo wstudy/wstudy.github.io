@@ -1,1 +1,0 @@
-import{Q as o,a3 as a,a1 as e}from"./index.93dfc2b8.js";const t=e("div",{class:"text-h4"},"mypage/bookmark",-1),s=e("div",null,null,-1),n=[t,s],m=Object.assign({name:"bookmark"},{__name:"bookmark",setup(c){return(_,r)=>(o(),a("div",null,n))}});export{m as default};

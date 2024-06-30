@@ -1,1 +1,0 @@
-import{b as e}from"./route-block.1e6a8648.js";import{a9 as o,Q as a,a3 as c,a1 as s}from"./index.93dfc2b8.js";const t={},r=s("div",{class:"text-h4"},"About",-1),n=[r];function _(f,i){return a(),c("div",null,n)}typeof e=="function"&&e(t);var u=o(t,[["render",_]]);export{u as default};
