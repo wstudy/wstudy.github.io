@@ -1,1 +1,0 @@
-import{M as e,$ as t,_ as s}from"./index.a97a574c.js";const a=s("div",{class:"text-h4"},"mypage/password",-1),o=s("div",null,null,-1),n=[a,o],l=Object.assign({name:"password"},{__name:"password",setup(_){return(c,r)=>(e(),t("div",null,n))}});export{l as default};
