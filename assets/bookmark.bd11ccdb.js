@@ -1,0 +1,1 @@
+import{M as o,$ as t,_ as e}from"./index.a97a574c.js";const s=e("div",{class:"text-h4"},"mypage/bookmark",-1),a=e("div",null,null,-1),n=[s,a],m=Object.assign({name:"bookmark"},{__name:"bookmark",setup(_){return(c,r)=>(o(),t("div",null,n))}});export{m as default};

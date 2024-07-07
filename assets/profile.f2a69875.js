@@ -1,1 +1,0 @@
-import{M as t,$ as s,_ as e}from"./index.6be11461.js";const o=e("div",{class:"text-h4"},"mypage/profile",-1),a=e("div",null,null,-1),n=[o,a],i=Object.assign({name:"profile"},{__name:"profile",setup(_){return(c,l)=>(t(),s("div",null,n))}});export{i as default};

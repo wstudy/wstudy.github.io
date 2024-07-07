@@ -1,0 +1,1 @@
+import{M as t,$ as n,_ as e}from"./index.a97a574c.js";const s=e("div",{class:"text-h4"},"admin/index",-1),a=e("div",null,null,-1),o=[s,a],l=Object.assign({name:"index"},{__name:"index",setup(_){return(c,i)=>(t(),n("div",null,o))}});export{l as default};
