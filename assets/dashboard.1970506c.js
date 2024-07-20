@@ -1,1 +1,0 @@
-import{I as s,W as a,V as e}from"./index.9fc85595.js";const t=e("div",{class:"text-h4"},"dashboard",-1),o=e("div",null,null,-1),n=[t,o],l=Object.assign({name:"dashboard"},{__name:"dashboard",setup(c){return(d,_)=>(s(),a("div",null,n))}});export{l as default};
