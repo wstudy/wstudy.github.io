@@ -1,1 +1,0 @@
-import{P as t,I as o,W as a,L as n,V as s}from"./index.c7ba3d11.js";const r=s("div",{class:"text-h4"},"Admin layout",-1),d=Object.assign({name:"admin"},{__name:"admin",setup(c){return(_,i)=>{const e=t("router-view");return o(),a("div",null,[r,n(e)])}}});export{d as default};
