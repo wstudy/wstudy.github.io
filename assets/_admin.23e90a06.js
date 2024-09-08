@@ -1,1 +1,0 @@
-import{b as e}from"./route-block.1e6a8648.js";import{P as t,I as n,W as r,L as a}from"./index.eb181b41.js";const c=Object.assign({name:"admin"},{__name:"_admin",setup(s){return(m,_)=>{const o=t("router-view");return n(),r("div",null,[a(o)])}}});typeof e=="function"&&e(c);export{c as default};

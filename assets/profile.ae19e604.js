@@ -1,0 +1,1 @@
+import{I as t,W as a,V as l}from"./index.fe2c1d11.js";const o=Object.assign({name:"profile"},{__name:"profile",setup(r){return(s,e)=>(t(),a("div",null,e[0]||(e[0]=[l("div",{class:"text-h4"},"mypage/profile",-1),l("div",null,null,-1)])))}});export{o as default};
