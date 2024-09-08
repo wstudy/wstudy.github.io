@@ -1,1 +1,0 @@
-import{I as o,W as t,V as a}from"./index.fe2c1d11.js";const l=Object.assign({name:"bookmark"},{__name:"bookmark",setup(r){return(s,e)=>(o(),t("div",null,e[0]||(e[0]=[a("div",{class:"text-h4"},"mypage/bookmark",-1),a("div",null,null,-1)])))}});export{l as default};
