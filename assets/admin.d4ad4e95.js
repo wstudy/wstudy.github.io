@@ -1,0 +1,1 @@
+import{T as o,J as a,_ as n,Y as s,M as r}from"./index.22405bc0.js";const _=Object.assign({name:"admin"},{__name:"admin",setup(m){return(c,e)=>{const t=o("router-view");return a(),n("div",null,[e[0]||(e[0]=s("div",{class:"text-h4"},"Admin layout",-1)),r(t)])}}});export{_ as default};
