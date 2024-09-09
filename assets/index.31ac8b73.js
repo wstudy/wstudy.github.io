@@ -1,1 +1,0 @@
-import{J as t,_ as a,Y as n}from"./index.e3416a07.js";const r=Object.assign({name:"index"},{__name:"index",setup(s){return(l,e)=>(t(),a("div",null,e[0]||(e[0]=[n("div",{class:"text-h4"},"admin/index",-1),n("div",null,null,-1)])))}});export{r as default};
