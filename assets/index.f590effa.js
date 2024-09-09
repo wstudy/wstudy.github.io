@@ -1,0 +1,1 @@
+import{K as t,$ as a,Z as n}from"./index.cb54c92e.js";const r=Object.assign({name:"index"},{__name:"index",setup(s){return(l,e)=>(t(),a("div",null,e[0]||(e[0]=[n("div",{class:"text-h4"},"admin/index",-1),n("div",null,null,-1)])))}});export{r as default};
